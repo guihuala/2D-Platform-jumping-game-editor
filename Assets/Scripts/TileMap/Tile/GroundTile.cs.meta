@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 321f4f71c32f244958ee59dfce3aea65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileSO: {instanceID: 0}
+  - topSprite: {instanceID: 0}
+  - bottomSprite: {instanceID: 0}
+  - leftSprite: {instanceID: 0}
+  - rightSprite: {instanceID: 0}
+  - topLeftSprite: {instanceID: 0}
+  - topRightSprite: {instanceID: 0}
+  - bottomLeftSprite: {instanceID: 0}
+  - bottomRightSprite: {instanceID: 0}
+  - centerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

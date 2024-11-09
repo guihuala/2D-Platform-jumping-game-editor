@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{21062C78-E9B4-3E67-DB2C-B8FE29001BF9}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="162d7f79-06c8-46df-bd6f-78fd80ad36c4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Data/MapData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TileMap/TileMap.cs" Line="130" Column="23" />
+      <File FileName="Assets/Scripts/Data/MapData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/TileSelectionUI.cs" Line="18" Column="90" />
+      <File FileName="Assets/Scripts/TileMap/Tile/GroundTile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="60" Column="1" />
+      <File FileName="Assets/Scripts/UI/MapEditor.cs" Line="16" Column="22" />
+      <File FileName="Assets/Scripts/TileMap/TileSO.cs" Line="9" Column="42" />
+      <File FileName="Assets/Scripts/TileMap/Tile/Tile.cs" Line="5" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sese jump" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Enemy" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="TileMap" expanded="True">
+                  <Node name="Tile" expanded="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e56185428ab2643cbb2278804f276635, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 2730027002326134927, guid: 1f0a6a4fec4374c3f833e1972819f0b5, type: 3}
+  tileName: snow
+  tileSprite: {fileID: -1267715143, guid: 8bccf230f1ba549ad813c0f5d8790d52, type: 3}
+  tileType: 0
